@@ -4,12 +4,12 @@ title:  "Who's Afraid of Creating a Blog?"
 date:   2017-01-17 13:16:01 -0600
 categories: meta
 ---
-##Story
+## Story
 I've always had a dream of having my own website. It felt like an online safespace where I could do anything I wanted and write anything I wanted. There was always something holding me back, though... it's just incredibly frightening to think of all the seperate pieces that need to be properly put together to create something functional. I'm not afraid of learning a new language and writing new code because as an Android developer, I know I just need to be able to properly form a Google search. I was just terrified of figuring out the server aspect. It wasn't until a friend of mine was complaining about the difficulty of exactly this problem I've described that another friend made a suggestion that made me finally take action: "What about GitHub Pages?"
 
 I looked into it and found out how easy it was to do the exact thing that made me drag my heels. This is the easiest list of steps I can think of to set up your website/blog. Any optional items are included if you want to use a custom domain.
 
-#Easy Steps
+# Easy Steps
 1. (Optional) [Find](https://domainr.com/) and [purchase](https://domains.google/) a domain.
 2. Create a [GitHub repository](https://pages.github.com/) that will contain all the code for your website.
 3. (Optional) Go to your DNS settings on the site with which you've registered your domain and add the [IP Addresses](https://help.github.com/articles/setting-up-an-apex-domain/#configuring-a-records-with-your-dns-provider) that GitHub gives you to your custom resource records. (It's at the bottom of the Google Domains page in the DNS area.)
