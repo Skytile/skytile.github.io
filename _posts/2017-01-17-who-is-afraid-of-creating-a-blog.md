@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Who's Afraid of Creating a Blog?"
 date:   2017-01-17 13:16:01 -0600
 categories: meta
@@ -11,7 +12,7 @@ I looked into it and found out how easy it was to do the exact thing that made m
 1. (Optional) [Find](https://domainr.com/) and [purchase](https://domains.google/) a domain.
 2. Create a [GitHub repository](https://pages.github.com/) that will contain all the code for your website.
 3. (Optional) Go to your DNS settings on the site with which you've registered your domain and add the [IP Addresses](https://help.github.com/articles/setting-up-an-apex-domain/#configuring-a-records-with-your-dns-provider) that GitHub gives you to your custom resource records. (It's at the bottom of the Google Domains page in the DNS area.)
-4. Enforce HTTPS. Because we love security. There's a checkbox in your repo setting if you're using GitHub's domain. If you have a custom domain, sign up for a free CloudFlare account and just follow their instructions. You will probably need to wait an hour or so to see results.
+4. Enforce HTTPS. Because we love security. There's a checkbox in your repo setting if you're using GitHub's domain. If you have a custom domain, sign up for a free [CloudFlare](https://www.cloudflare.com/) account and just follow their instructions. You will probably need to wait an hour or so to see results.
 5. Pick a Jekyll theme in your repo settings.
 6. Create an index.html file with anything in the root of your repo. This will be your homepage.
 7. Create a \_posts folder in the root of your repo and create a file in the format of YEAR-MONTH-DAY-title.md (Example: 2017-01-17-who-is-afraid-of-creating-a-blog.md).
