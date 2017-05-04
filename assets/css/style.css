@@ -5,7 +5,7 @@
 
 :root {
 	--primary: #00b3fe;
-	--primary_rgb: "0,179,254";
+	--primary_rgb: 0,179,254;
 	--secondary: #384452;
 	--link: #428bca;
   --link_hover: #01b2fe;
