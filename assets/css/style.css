@@ -4,8 +4,8 @@
 @import url("hoverex-all.css") screen;
 
 :root {
-	--primary: #00b3fe;
-	--primary_rgb: 0,179,254;
+	--primary: #6B238E;
+	--primary_rgb: 107,35,142;
 	--secondary: #384452;
 	--link: #428bca;
   --link_hover: #01b2fe;
@@ -14,7 +14,7 @@
 	--navbar_height: 70px;
 }
 /*	################################################################
-	1. GENERAL STRUCTURES
+	1. GENERAL STRUCTURES 00b3fe
 ################################################################# */
 	* {
 		margin: 0;
