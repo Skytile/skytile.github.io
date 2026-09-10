@@ -1,6 +1,6 @@
 ---
 layout: default
-title: For Science: Field Kit Privacy Policy
+title: "For Science: Field Kit Privacy Policy"
 permalink: /for-science/privacy/
 ---
 
